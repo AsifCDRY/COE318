@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class UserMain {
     private static ArrayList<String> str = new ArrayList();
