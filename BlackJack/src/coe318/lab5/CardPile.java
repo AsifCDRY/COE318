@@ -1,7 +1,7 @@
 package coe318.lab5;
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 import java.util.ArrayList;
 import java.util.Random;
