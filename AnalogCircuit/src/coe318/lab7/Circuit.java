@@ -2,7 +2,7 @@ package coe318.lab7;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 import java.util.ArrayList;
 
