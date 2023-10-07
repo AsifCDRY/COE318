@@ -1,5 +1,6 @@
 # COE318
 This repository contains some projects I did in this course (Software Systems).
+
 The most notable project is the Bookstore App, as it was the final project of this course and the culmination of all that I have learned.
 For a general summary, the bookstore app allows a customer to select and purchase books from a list using either money or points. 
 Points are rewarded to customers based on how many books they buy.
