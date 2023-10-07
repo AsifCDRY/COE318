@@ -2,7 +2,7 @@ package coe318.lab4;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class Account {
     String accName;
