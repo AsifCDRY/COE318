@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class NodeTest {
     
